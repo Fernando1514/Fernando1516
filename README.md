@@ -1,6 +1,6 @@
 
 <h1>Hi There! 👋</h1>
-[![Gmail Badge](mailto:contato@fernandofrodrigues355@gmail.com.com)
+[![Gmail Badge](mailto:contato@fernandofrodrigues355@gmail.com)
 
 
 
