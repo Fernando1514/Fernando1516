@@ -1,6 +1,6 @@
 
 <h1>Hi There! 👋</h1>
-[![Gmail Badge](https://img.shields.io/badge/-contato@fernandofrodrigues355@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@fernandofrodrigues355@gmail.com)](mailto:contato@fernandofrodrigues355@gmail.com.com)
+[![Gmail Badge](mailto:contato@fernandofrodrigues355@gmail.com.com)
 
 
 
